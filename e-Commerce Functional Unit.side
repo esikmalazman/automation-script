@@ -1123,7 +1123,7 @@
         ["xpath=//form[@id='login_form']/div/div/input", "xpath:idRelative"],
         ["xpath=//div[2]/form/div/div/input", "xpath:position"]
       ],
-      "value": "johnny@gmail.com"
+      "value": "sky@gmail.com"
     }, {
       "id": "0e2935b9-aa2e-41df-b458-44ceede62ad4",
       "comment": "",
@@ -1162,7 +1162,7 @@
         ["xpath=//form[@id='login_form']/div/div[2]/span/input", "xpath:idRelative"],
         ["xpath=//span/input", "xpath:position"]
       ],
-      "value": "12345678"
+      "value": "fowardRoll100"
     }, {
       "id": "335eb4ee-c761-4dd9-913b-fcfdb976eb82",
       "comment": "",
